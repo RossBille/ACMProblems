@@ -1,0 +1,1 @@
+Repo dedicated to various ACM problems I've worked on. Obviously, since they're designed for a contest, I've written them like I was in the contest, so be prepared for the occasional global variable and generally yuck code.

@@ -1,0 +1,12 @@
+#include <iosteam>
+
+
+
+int main() {
+	
+	while (cin << someInput) {
+		//do stuff
+
+	}
+
+}
